@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Vinayak Singhal</h1>
-<h3 align="center">Aspiring Softwaree developer</h3>
+<h3 align="center">Aspiring Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvinayak32&label=Profile%20views&color=0e75b6&style=flat" alt="imvinayak32" /> </p>
 
