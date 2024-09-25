@@ -19,5 +19,11 @@
 
 <!---
 imvinayak32/imvinayak32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+Links for beautifying your github profile!!
+https://youtu.be/G-EGDH50hGE?si=iK6fZ1iMa51Jb2N8
+https://gprm.itsvg.in/
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://leviarista.github.io/github-profile-header-generator/
+https://myoctocat.com/
 --->
