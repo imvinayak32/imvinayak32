@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Vinayak Singhal</h1>
 <h3 align="center">Aspiring Software developer</h3>
 
